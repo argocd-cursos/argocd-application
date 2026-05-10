@@ -7,7 +7,7 @@ spec:
   description: Project for Team Finance with security guardrails
 
   sourceRepos:
-    - 'https://github.com/westibcar/argocd-example-apps-labs.git'
+    - 'https://github.com/argocd-cursos/argocd-exemplos-apps.git'
 
   destinations:
     - server: https://kubernetes.default.svc
